@@ -2245,8 +2245,9 @@ punycode@^2.1.0:
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.3.tgz#759dc9cf20d8bde3b09e868f43bf14bdfb8467b1"
+  integrity sha512-ZR4x/aZZFC9YhBFeGfudUd+pY1R6NjVKbzXr/BaES046WNHPn5RWSAYEmTrlUJVU/+4pgyJEl21LFggYarCSTg==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
